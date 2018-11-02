@@ -2,7 +2,7 @@ package com.oldmemories;
 
 
 public class CardItem {
-
+//
     private int mTextResource;
     private int mTitleResource;
 

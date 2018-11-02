@@ -8,7 +8,7 @@ import android.widget.CheckBox;
 
 public class MainActivity extends AppCompatActivity {
 
-
+//
     private ViewPager mViewPager;
     private CardPagerAdapter mCardAdapter;
     private ShadowTransformer mCardShadowTransformer;

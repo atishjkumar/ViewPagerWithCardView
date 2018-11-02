@@ -7,6 +7,7 @@ import android.view.View;
 
 public class ShadowTransformer implements ViewPager.OnPageChangeListener, ViewPager.PageTransformer {
 
+    //
     private ViewPager mViewPager;
     private CardAdapter mAdapter;
     private float mLastOffset;

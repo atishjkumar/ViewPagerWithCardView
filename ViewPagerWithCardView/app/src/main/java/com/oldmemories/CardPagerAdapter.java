@@ -13,6 +13,7 @@ import java.util.List;
 
 public class CardPagerAdapter extends PagerAdapter implements CardAdapter {
 
+    //
     private List<CardView> mViews;
     private List<CardItem> mData;
     private float mBaseElevation;
